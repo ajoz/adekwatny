@@ -1,6 +1,6 @@
-# Lagom style + extras
+# Modified Lagom jekyll theme
 
-This is a [jekyll](http://jekyllrb.com/) style for my blog, based on [lagom](https://github.com/swanson/lagom) style with additional features:
+This is a [jekyll](http://jekyllrb.com/) theme for my blog, based on [lagom](https://github.com/swanson/lagom) style with additional features:
 
 * Configurable copywrite date for posts (date placed in the footer). You can now configure the date in `_data/theme.yml` file by setting "copywrite" value.
 * Configurable author name used for meta tag and other parts of the site.
@@ -12,5 +12,3 @@ This is a [jekyll](http://jekyllrb.com/) style for my blog, based on [lagom](htt
 * Text is justified in post paragraphs.
 * Font is smaller (reduced to reasonable size).
 * RSS feed contains excerpt from the posts instead of a full content.
-
-For installation instructions go for [lagom][https://github.com/swanson/lagom] repo.
