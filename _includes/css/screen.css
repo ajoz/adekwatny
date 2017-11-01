@@ -200,24 +200,30 @@ nav h1, nav h2 {
   border-radius: 50%;
 }
 
-#stalker {
-  display: inline-block;
-  # height: 18px;
-  # margin-left: 5px;
+#author {
+  display: block;
 }
 
-#stalker a {
+#tagline {
+  display: block;
+}
+
+#follow {
+  display: inline-block;
+}
+
+#follow a {
   width: 29px;
   overflow: hidden;
   float: left;
 }
 
-#stalker i {
+#follow i {
   font-size: 28px;
   margin-right: 5px;
 }
 
-#stalker a:hover {
+#follow a:hover {
   text-decoration: none;
   color: {{ site.data.theme.highlight_color }};
 }
