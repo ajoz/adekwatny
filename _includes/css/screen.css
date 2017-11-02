@@ -17,7 +17,6 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   color: #181818;
-  font-family: "open sans", sans-serif;
   font-weight: 600;
 }
 
@@ -87,18 +86,17 @@ ul.posts span {
   font-family: 'Lucida Console', 'Andale Mono', monospace;
   color: #6b6b6b;
   padding-right: 10px;
-  font-size:14px;
+  font-size: 14px;
 }
 
 .meta {
-  color: #aaa;
+  color: #6b6b6b;
   margin: 0 0 10px 0;
 }
 
 .site .footer {
   font-size: 80%;
   color: #6b6b6b;
-  # border-top: 4px solid #eee;
   overflow: hidden;
 }
 
@@ -148,7 +146,6 @@ nav h1, nav h2 {
 
 .sidebar {
   padding-top: 25px;
-  font-family: "open sans", sans-serif;
 }
 
 .sidebar p {
@@ -229,7 +226,6 @@ nav h1, nav h2 {
 }
 
 i.fa-hn {
-  font-family: "open sans", sans-serif;
   text-align: center;
   font-size: 18px !important;
   position: relative;
@@ -239,7 +235,7 @@ i.fa-hn {
 .home {
   font-size: 24px;
   float: right;
-  color: #AAA;
+  color: #6b6b6b;
 }
 
 .home:hover {
