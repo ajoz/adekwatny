@@ -12,3 +12,10 @@ This is a [jekyll](http://jekyllrb.com/) theme for my blog, based on [lagom](htt
 * Text is justified in post paragraphs.
 * Font is smaller (reduced to reasonable size).
 * RSS feed contains excerpt from the posts instead of a full content.
+
+Except those quality of life additions, layout of the blog was changed:
+
+* Removed the sidebar completly
+* Introduced a header
+* Follow links moved to the header
+* Changable syntax highlighting styles
