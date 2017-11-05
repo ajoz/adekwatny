@@ -1,16 +1,16 @@
 # Theme customization - please change from the defaults!
 
-# Color for top bar, links, etc
+# Color for fa-icons, links, etc
 highlight_color: '#3498db'
 
-# Disqus configuration (provide short name)
+# Disqus configuration (provide short name - disabled if not provided)
 disqus_shortname:
 
 # Profile links on the left sidebar, leave blank to ignore
 social:
   github: ajoz
-  #bitbucket: ajoz
-  hacker_news: ajoz
+  bitbucket: ajoz
+  #hacker_news: ajoz
   #stackexchange: 348619
   #stackoverflow: 348619
   twitter: _ajoz_
@@ -20,7 +20,7 @@ social:
   #gplus:
   #flickr: 
 
-# Author (name and surname of the site author, used in the section Hi, I'm ...)
+# Author (name and surname of the site author, used in the header section)
 author: Name Surname
 # Description of the site
 description: This is the description of the website that will be used in <head>
@@ -38,7 +38,7 @@ tagline: "weak opinions, strongly held"
 # Date shown in the footer of the posts
 copywrite: 2017
 
-# Google Analytics key: UA-xxxx-x, leave blank to ignore 
+# Google Analytics key e.g.: UA-xxxx-x, leave blank to ignore 
 google_analytics_key:
 
 # Toggle "Postings are my own" disclaimer in footer
