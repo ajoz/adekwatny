@@ -1,6 +1,10 @@
-# Modified Lagom jekyll theme
+# Adekwatny
 
-This is a [jekyll](http://jekyllrb.com/) theme for my blog, based on [lagom](https://github.com/swanson/lagom) style with additional features:
+[![Live Demo](https://img.shields.io/badge/view-live--demo-blue.svg?style=flat-square)](http://ajoz.github.io/)
+
+> #### *Adekwatny* is a Polish word meaning "enough or satisfactory for a particular purpose"
+
+Adekwatny, is a [jekyll](http://jekyllrb.com/) theme for my [blog](https://ajoz.github.io), based on [lagom](https://github.com/swanson/lagom) style with additional features:
 
 * Configurable copywrite date for posts (date placed in the footer). You can now configure the date in `_data/theme.yml` file by setting "copywrite" value.
 * Configurable author name used for meta tag and other parts of the site.
@@ -11,6 +15,7 @@ This is a [jekyll](http://jekyllrb.com/) theme for my blog, based on [lagom](htt
 * Email icon in the social links.
 * Text is justified in post paragraphs.
 * Font is smaller (reduced to reasonable size).
+* Images are centered inside a paragraph.
 * RSS feed contains excerpt from the posts instead of a full content.
 
 Except those quality of life additions, layout of the blog was changed:
